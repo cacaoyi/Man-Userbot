@@ -10,9 +10,9 @@ async def _(event):
     await edit_or_reply(event, "**Assalamualaikum Dulu Biar Sopan**")
 
 
-@man_cmd(pattern="pe(?: |$)(.*)")
+@man_cmd(pattern="kalem(?: |$)(.*)")
 async def _(event):
-    await edit_or_reply(event, "**Assalamualaikum Warahmatullahi Wabarakatuh**")
+    await edit_or_reply(event, "**KALEM OP ANJENGGG**")
 
 
 @man_cmd(pattern="P(?: |$)(.*)")
