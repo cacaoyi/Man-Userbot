@@ -34,18 +34,18 @@ async def _(event):
     await xx.edit("**Assalamualaikum**")
 
 
-@man_cmd(pattern="j(?: |$)(.*)")
+@man_cmd(pattern="oc(?: |$)(.*)")
 async def _(event):
-    xx = await edit_or_reply(event, "**JAKA SEMBUNG BAWA GOLOK**")
+    xx = await edit_or_reply(event, "**🌨️🌈☔💞💓💜💗💖🖤💝♥️💕💌💋❣️💔**")
     sleep(3)
-    await xx.edit("**NIMBRUNG GOBLOKK!!!🔥**")
+    await xx.edit("**✨MALVINECENNA KALEM✨**")
 
 
-@man_cmd(pattern="k(?: |$)(.*)")
+@man_cmd(pattern="sekutot(?: |$)(.*)")
 async def _(event):
-    xx = await edit_or_reply(event, f"**Hallo KIMAAKK SAYA {owner}**")
+    xx = await edit_or_reply(event, f"**KE KOTA PERU MAKAN MENGKUDU**")
     sleep(2)
-    await xx.edit("**LU SEMUA NGENTOT 🔥**")
+    await xx.edit("**ALIANSI SEKUTU UDA MATI KUTU 🤭🤙**")
 
 
 @man_cmd(pattern="ass(?: |$)(.*)")
